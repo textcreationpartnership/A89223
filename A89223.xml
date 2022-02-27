@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To his grace, his Majesties high commissioner, and the most honourable the three estates of Parliament information for Alexander Monro of Bearcrofts</title>
+            <author>Monro, Alexander, of Bearcrofts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89223</idno>
+            <idno type="STC">Wing M2435A</idno>
+            <idno type="STC">ESTC R231117</idno>
+            <idno type="EEBO-CITATION">99899729</idno>
+            <idno type="PROQUEST">99899729</idno>
+            <idno type="VID">135188</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2431:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To his grace, his Majesties high commissioner, and the most honourable the three estates of Parliament information for Alexander Monro of Bearcrofts</title>
+                  <author>Monro, Alexander, of Bearcrofts.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History --  17th century --  Early works to 1800.</term>
+               <term>Sale of public office --  Early works to 1800.</term>
+               <term>Great Britain --  History --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:135188:1" rendition="simple:additions"/>
+            <head>To His <hi>GRACE,</hi> His MAJESTIES High COMMISSIONER, AND THE Moſt Honourable the Three ESTATES of PARLIAMENT Information for <hi>ALEXANDER MONRO</hi> of <hi>Bearcrofts.</hi>
+            </head>
+            <p>THE ſaid <hi>Alexander Monro</hi> upon the ſecond day of <hi>November,</hi> 1669. purchaſed and Obtained from Sir <hi>Archibald Primroſe</hi> then Clerk Regiſter, the Office of an Ordinarly Clerk of Seſſion, during all the dayes of his Life unremovable; As the Gift of the ſaid Office herewith produced, more fully bears; By Vertue whereof, and conſidering that the ſaid Sir <hi>Archibald Primroſe,</hi> was by his Gift Ratified in Parliament, Expreſly and Fully Im<g ref="char:EOLhyphen"/>powered, during all the dayes of his Lifetime, to Choice and Ap<g ref="char:EOLhyphen"/>point Clerks of Seſſion, one or more, during their Life-times, In the expreſs words following, <hi>(Cum plena &amp; abſoluta poteſtate ei durante ſpatio antedicto, eligendi, locandi, &amp; conſtituendi Clericos, deputates, &amp; ſub<g ref="char:EOLhyphen"/>ſtitutos unum ſeu plures in dicto officio, &amp; in unaquaque parte, ſeu partibus ejuſdem, pro obeundo dicto officio, durante vita dictorum deputatorum &amp; ſub<g ref="char:EOLhyphen"/>ſtitutorum, idque ſemper prout ei expedire, vel emolumento ſubditorum no<g ref="char:EOLhyphen"/>ſtrorum in exequendis dictis officiis conducere videbitur.)</hi> And that the ſaid
+<pb n="2" facs="tcp:135188:2"/>Sir <hi>Archibald</hi> did name to the Parliament ſix Clerks to ſerve in Par<g ref="char:EOLhyphen"/>liament and Seſſion, who were ſworn and admitted, and approven in Parliament and Seſſion, and their Rights Ratified in Parliament; It is evident that the ſaid <hi>Alexander</hi> had good and undoubted Right to his ſaid Place and Office, ſo that except upon the account of <hi>Mal<g ref="char:EOLhyphen"/>verſation</hi> lawfully found and proven againſt him, he could not poſ<g ref="char:EOLhyphen"/>ſibly be removed.</p>
+            <p>Yet true it is, That after he had ſerved faithfully in the ſaid Of<g ref="char:EOLhyphen"/>fice for ſeveral years, and notwithſtanding of his former many ſer<g ref="char:EOLhyphen"/>vices and ſufferings in the Warrs for the Royal Family, and his Country: Nevertheleſs upon a Letter impetrate from King <hi>Charles</hi> the Second to the Lords of Seſſion, Bearing for all other Cauſes, that it was his Majeſties pleaſure, That there ſhould be only Three Or<g ref="char:EOLhyphen"/>dinary Clerks of Seſſion, according to the Ancient Conſtitution; He was ſummarly upon the 20: of <hi>June,</hi> 1676. turned out by the Lords of Seſſion: who did Arbitrarly modifie Seven Thouſand Merks for his Office to be payed to him by the deceaſt Mr. <hi>John Hay</hi> his Colleague.</p>
+            <p>When his Majeſties Letter was read, the ſaid <hi>Alexander Monro</hi> plea<g ref="char:EOLhyphen"/>ded, That by Ours, and the Common Law, the Lords could not warrantably proceed thereupon, to determine any thing concerning his Office, which was his Property: And to which he had as good Right as any Man had to his Eſtate. And having offered ſeveral Grounds in Law to clear the ſame, he craved to be heard by his Lawyers: And offered to undergo any Tryal, as to what ever might concern the Diſcharge of his Office: And the Verdict of all or any whoſe Affairs had been at any time amongſt his hands, Whether ever he had <hi>malverſed,</hi> or <hi>Extorſed,</hi> or had been <hi>defective in his duty,</hi> or had done any thing unworthy of a Clerk of the Seſſion. And he urged further, That ſuch Letters were many times impetrate upon miſre<g ref="char:EOLhyphen"/>preſentation; and therefore craved ſome competent time to enform his Majeſty of the nature of his Right, and of his Services done to the Royal Family and his Country, at the Engagement 1648: And in <hi>Ireland</hi> in <hi>anno</hi> 1649; And at <hi>Worceſter</hi> with his Majeſty, (where his Brother <hi>Leiutenant Colonel Monro</hi> was killed, and himſelf taken priſon<g ref="char:EOLhyphen"/>er:) And in the <hi>Highlands</hi> in the years 1653, and 1654: And at other
+<pb n="3" facs="tcp:135188:2"/>Occaſions. Nothing doubting when his Majeſty were rightly en<g ref="char:EOLhyphen"/>formed, he might rather expect a better Employment by his Maje<g ref="char:EOLhyphen"/>ſties Free Gift, Then to ſuffer prejudice in his Property and Office, which he had purchaſed with his own Money, through any thing which might flow from his Majeſties hands. To which it was anſwe<g ref="char:EOLhyphen"/>red, That he might uſe theſe Pleadings upon his Services, To be one of the three Clerks appointed by his Majeſtie. And to that he Re<g ref="char:EOLhyphen"/>plyed, That he could not be one of three without wrong done to o<g ref="char:EOLhyphen"/>thers who had undoubted Right; And he craved no more but the peaceable poſſeſſion of his own. Then he was commanded to remove; And when he was gone, Sentence was pronounced, <hi>Removing him from his Office, and appointing his Colleague to pay him</hi> 70<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0: <hi>Merks</hi> Which Sentence was never intimate to him in the Ordinary way; Nor was he ſuffered to return again; Wherefore he reſolved the next morn<g ref="char:EOLhyphen"/>ing to take his place in the Houſe, and being near to go in, he was pulled back by force by ſome Friends, who told him, he would be ſent to priſon if he attempted it. And though he anſwered, it would be convenient for him to be ſo treated, yet they carried him away Violently.</p>
+            <p>Now by what is ſaid above, it is evident that he was caſt out of his Right and Office by Violence compleated againſt him, after all the Reſiſtance he could make. But it may be objected, that afterwards he accepted of the ſaid 7000: Merks, and thereby homologate the Sentence.</p>
+            <p>To which its anſwered, He did in truth reſolve never to accept it. But the beſt Lawyers in the Kingdom perſwaded him, that he might ſafely take it, without any hazard to his Right; And that deed could never extend further, then to obliege him to allow the ſaid 7000: M: in the firſt of the Profites of his Office; And when he received the ſame from Mr. <hi>John Hay,</hi> he aſſured him, he would take the firſt op<g ref="char:EOLhyphen"/>portunity to recover his Office, and then he would count with him for his Money; And deſired him to keep a juſt account of what he ſhould receive, aryſing from his Office. He was likewiſe preſſed to accept of that Money by the greateſt in the Nation, who aſſured him, that when ever the abuſes of the Government were Redreſſed, he would be reſtored to his own; and that Deed after ſo compleat a Force
+<pb n="4" facs="tcp:135188:3"/>could not ſtand in his way. And indeed at that time it was thought a very ſtrange and odious buſineſs by the whole Nation.</p>
+            <p>Now, though it be ſufficient to lay open before the Parliament a bare face of Oppreſſion, to take off any poſterior deed of the oppreſ<g ref="char:EOLhyphen"/>ſed Party, clearly conſequent from the Oppreſſion: Seing it belongs to the Parliament to judge according to Equity and Conſcience (eſpe<g ref="char:EOLhyphen"/>cially where the Violence is procured and executed by wicked Men in the Government, who cannot be reſiſted by Law or otherwayes;) yet beyond contraverſie, all he Craves and Urges is well founded in our Own, and the Common Law.</p>
+            <p>And firſt, as to the Sole reaſon, in His Majeſties Letter <hi>(That the Clerks by former Cuſtom were only three in number)</hi> that is an evident Miſ<g ref="char:EOLhyphen"/>information, and diſcovers how the Letter was impetrate. For the ancient Conſtitution was only, That there ſhould be Three <hi>Offices,</hi> or <hi>Chambers,</hi> which was, and is ſtill obſerved: But not that there ſhould be only one Clerk in each Chamber, as in effect of old there was no ſuch Obſervance; but on the contrary, two ordinately ſerved in each Chamber: And that to the greater advantage of the <hi>Leidges,</hi> who were thereby more readily and eaſily ſerved, and Men of experience bred to, and kept in the Office. But it is certain in Law <hi>That private Rights cannot be prejudged even upon conſideration of publict Good, otherwayes then by King and Parliament, and upon bearing the Parties, and Refounding all Dammages.</hi>
+            </p>
+            <p n="2">2do. If there had been ſuch an ancient Conſtitution, the ſame had been quite taken away by the foreſaid Gift to the Clerk Regiſter in Anno 1660, Ratified in Parliament. And by his Nomination of ſix Clerks at that time, <hi>viz.</hi> two for every Chamber, who were all Approven, Admitted, and Authorized in Parliament.</p>
+            <p n="3">3tio. As he had <hi>Jus quaeſitam</hi> equally in every reſpect with his Col<g ref="char:EOLhyphen"/>league Mr. <hi>John Hay,</hi> the Lords had not the leaſt ſhadow of Reaſon to exclude him and continue his Colleague: And far leſs to Con<g ref="char:EOLhyphen"/>ſtraine him to Accept of a Price of their Modifying, and ſo much be<g ref="char:EOLhyphen"/>low the value of his Intereſt. But the utmoſt they could do was to have repreſented to His Majeſty, That their juſt Rights could not be taken from them; nor could they in Reaſon diſtinguiſh them. But that after the Deceaſe of either of them they would be careful that His Majeſties Letter ſhould be obſerved.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:135188:3"/>
+4to. As no poſterior Gift in Favours of any other Perſon could pre<g ref="char:EOLhyphen"/>judge him, but would be interpret as impetrate <hi>per ſubreptionem,</hi> and would be <hi>ſalvo jure:</hi> So the common Law and Laws of this Kingdom does no otherwayes interpret Letters and private Warrands, in ſo far as the ſame is prejudicial to the Right of private Parties.</p>
+            <p n="5">5to. By Expreſs and Poſitive Acts of Parliament. (<hi>As Act</hi> 92. <hi>P.</hi> 6. <hi>Ja.</hi> 6.) It is clearly and dictinctly provided, That the Lords of Seſſion ſhould Adminiſtrate Juſtice without regard to any Letters or Warrands which may be Impetrate. And which is conſonant to the common Law and Laws and Cuſtoms of all Nations, as appears in thoſe Titles; <hi>Cod: de precibus impiratori offerendis,</hi> and the following titles to the ſame pur<g ref="char:EOLhyphen"/>poſe; <hi>viz.</hi> 20: 21, 22: <hi>lib:</hi> 1 mo: Where that famous Law, <hi>Lex ſeptima</hi> is inſert, <hi>Reſcripta contra jus elicita ab omnibus judioibus refutari praecipimus; niſi forte ſit aliquid quod non laedat alium, &amp; proſit petenti.</hi> So far did Legiſ<g ref="char:EOLhyphen"/>lators themſelves, thus to ſecure the Subjects againſt the hazard of Letters and private Warrands.</p>
+            <p n="6">6to. There was a clear Contrivance in the Matter: For at that time a Warrand was procured from the King to the Lords to name their own Clerks, whereby the Regiſters Office Eſtabliſhed by Parl. and immemorial Cuſtom was alſo broken by a Letter: But when ſome had obtained their deſignes the Clerk Regiſter was reſtored, and the ſix Clerks brought back, and the pretended ancient Cuſtom no more regarded.</p>
+            <p>As to the pretence that the ſaid <hi>Alexr.</hi> made a Bargain or Homo<g ref="char:EOLhyphen"/>logate the ſentence in accepting the ſaid 7000 M that is ſufficiently Anſwered before, by the Narration of the true matters of Fact in his ſtedfaſt reſiſting of the Violence done againſt him as far as was poſſible: And his conſtant adhering to his Right, even when he received the Money: And his reclaiming againſt the Violence ever ſince: And his going to <hi>London</hi> in the Year 1679. purpoſely to complain thereof to the King, who promiſed him Redreſs.</p>
+            <p n="2">2do. His receiving of the ſaid 7000 M. can no more be called a Bargain, or Tranſaction, or a Homologation, then if Robbers had taken from him one hundreth Pounds, and had offered him back ten upon his Diſcharge of the whole in which caſe no Man can Imagine that by accepting the ten Pounds upon theſe Terms, he either pre<g ref="char:EOLhyphen"/>judged himſelf, or excuſed the Robbers from Reſtitution or Hanging for their Villany.</p>
+            <p n="3">
+               <pb n="6" facs="tcp:135188:4"/>
+3tio. He is in better Circumſtances then the Foreſaulted Perſons who Tranſacted with the Donators for their Forefaultures; And were ſome way conſenting in making the Price; whereas he did no way conſent to the Modifi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation of the ſaid 7000 M. And as in all Law and Equi<g ref="char:EOLhyphen"/>ty, the Summes payed by them muſt be Refounded, as being Extor<g ref="char:EOLhyphen"/>ted by the unjuſt Forfaultures, which compelled them to give the ſame rather then ly out of their whole Eſtates; ſo much more might he ac<g ref="char:EOLhyphen"/>cept of the ſaid 7000 M. modified by an unjuſt Sentence to be impu<g ref="char:EOLhyphen"/>ted as part of the Profits of his Office, without prejudice to the reſt, or to the Office it ſelf.</p>
+            <p n="4">4to. In the Action of <hi>Concuſſion,</hi> at the Inſtance of the Lady <hi>Gray,</hi> a<g ref="char:EOLhyphen"/>gainſt the Earl of <hi>Lauderdale,</hi> to whom ſhe diſponed an Intereſt ſhe had in the Earle of <hi>Dundee</hi>'s Eſtate, far within the Value (He being then the Great and Terrible Miniſter in this Nation) ſhe was lately reponed by the Lords upon clear and juſt Grounds of Law, though the Force againſt her was nothing comparable to that againſt the ſaid <hi>Alexr-Monro:</hi> Which was carryed on againſt him by the ſaid Earle of <hi>Lau<g ref="char:EOLhyphen"/>derdale,</hi> and in Conjunction with other mighty Men, and comman<g ref="char:EOLhyphen"/>ded by the Kings Letter, and readily obeyed by the Lords of Seſſion. So as by Ours and the common Law, <hi>Concuſſion</hi> was never more clear in any Caſe. Yet all the ſaid <hi>Alexr.</hi> craves is to be reponed to his own Office, and juſt Right, with the Profits thereof in time paſt, and to come; Allowing the ſaid 7000 M. in the firſt of them. And which is moſt juſtly provided for by the <hi>Claime of Right</hi> in theſe words, <hi>That all Forefaulters, Fines, Loſs of Offices, Impriſonments, Baniſhments, Perſutes, Perſecutions, Tortures, and Rigorous Executions be conſidered, and the Parties Leſed be Redreſſed.</hi>
+            </p>
+            <p>And though now he craves only to be reſtored to his Office, and the Profites thereof; he is able to Inſtruct Loſſes more conſiderable be<g ref="char:EOLhyphen"/>ſides, which he ſuffered by continual Perſecutions, long Impriſon<g ref="char:EOLhyphen"/>ments, and other Miſeries. And that only for his firm Affection to his King and Country. When the Royal Family was Oppreſt, he ſerved Them conſtantly and ſincerely with the hazard of all that was Dear to him, without the expectation of any Reward, but the Satis<g ref="char:EOLhyphen"/>faction he had to do his Dutie. And when the Kings wicked Miniſters Oppreſt the Nation to the Ruine of King and Country, Neither deſire of baſe Advantages, nor fear of any Loſs could ever move him to
+<pb n="7" facs="tcp:135188:4"/>comply with them; but wherever he was concerned in any publick Station he did freely witneſs his diſlike of Their Proceedings, and therefore he was turned out of his Office, and ever ſince Perſecuted and Oppreſt. He forbears to ſpeak of any little Service he hath done lately (though not with little hazard) being aboundantly ſatisfyed that he had the Honour to contribute his Mite to this happy Change.</p>
+            <p>And now ſeeing GOD hath Miraculouſly bleſt us <hi>with a Time</hi> of <hi>Re<g ref="char:EOLhyphen"/>ſtitution</hi> againſt all the Violent and Arbitrary Proceedings of the <hi>late Lawleſs Times</hi> it cannot be Imagined, that thoſe in whoſe Hands God hath placed the Occaſion, to perfect his Gracious Purpoſes, will endure, That any ſuffering Perſons ſhal ly buried ſtill under the Rubbiſh of the late cruel and unjuſt practiſes upon ſuch a frivolous pretence, <hi>That one accepted a part of his own after all was taken from him.</hi> Eſpecially ſeeing ſuch a pretence could not defend before any <hi>unbyaſſed</hi> ordinary Judge, ty'd to the Rules of Law, and much leſs before a Juſt Parliament, to whom it belongs to Judge according to Equity and Conſcience, eſpecially in Reference to the Proceedings of Wicked Men in the Government.</p>
+            <p>All the matters of Fact above Narrated, are unqueſtionably true; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Reaſons in Law well Founded. And all that's Craved, is, <hi>That Each of the Members of the moſt Honourable Court of Parliament may pleaſe to conſider the Caſe. And do in it, as he would be done to.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
